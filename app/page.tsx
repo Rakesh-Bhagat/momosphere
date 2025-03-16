@@ -18,7 +18,7 @@ export default function Home() {
       <header className="container mx-auto px-4 py-6 flex items-center justify-between">
         <div className="flex items-center">
           <img
-            src="/momo-logo.png"
+            src="/momo-logo.PNG"
             alt="Momosphere Logo"
             width={120}
             height={10}
