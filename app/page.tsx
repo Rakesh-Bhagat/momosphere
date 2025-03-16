@@ -503,7 +503,7 @@ export default function Home() {
           </div>
           <div className="md:w-1/2">
             <Image
-              src="/placeholder.svg?height=200&width=200"
+              src="/shop.jpg?height=200&width=200"
               alt="Delicious Momos"
               width={200}
               height={200}
