@@ -280,7 +280,7 @@ export default function Home() {
             <h3 className="font-semibold mb-2">Payment</h3>
             <p className="text-sm text-gray-600">Secure payment options available for your convenience.</p>
           </div>
-          <div className="bg-black text-white p-6 rounded-lg shadow-md relative">
+          <div className="bg-amber-500 text-white p-6 rounded-lg shadow-md relative">
             <div className="absolute -right-2 top-1/2 transform -translate-y-1/2 hidden md:block text-white">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
