@@ -17,14 +17,14 @@ export default function Home() {
       {/* Header/Navigation */}
       <header className="container mx-auto px-4 py-6 flex items-center justify-between">
         <div className="flex items-center">
-          <Image
-            src="/placeholder.jpg?height=40&width=40"
+          <img
+            src="/momo-logo.png"
             alt="Momosphere Logo"
-            width={40}
-            height={40}
-            className="mr-2"
+            width={120}
+            height={10}
+            className="mr-2 rounded-full bg-transparent mix-blend-mode: multiply"
           />
-          <span className="font-bold text-xl">Momosphere</span>
+          <span className="font-bold text-xl -ml-8">MOMOSPHERE</span>
         </div>
         <nav className="hidden md:flex items-center space-x-6">
           <Link href="#" className="text-sm font-medium hover:text-amber-700">
